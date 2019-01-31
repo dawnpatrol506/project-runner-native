@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Title, Button, TextInput, Paragraph } from 'react-native-paper';
+import { Card, Title, Button, TextInput } from 'react-native-paper';
 import { Grid, Row, Col } from 'react-native-easy-grid';
 import { AsyncStorage } from 'react-native';
 import { Redirect } from 'react-router-native';
